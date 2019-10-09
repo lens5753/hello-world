@@ -1,2 +1,4 @@
 # hello-world
-Was told to make this from "Hello World."
+
+Created this for the Hello World assignment!
+I like trains.
